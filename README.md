@@ -1,5 +1,5 @@
-# 🧠 Mini Project 4: Introduction to LLMs and Generative AI  
-### 🚀 Large Language Models (LLMs) and Retrieval Augmented Generation (RAG)
+#  Mini Project 4: Introduction to LLMs and Generative AI  
+###  Large Language Models (LLMs) and Retrieval Augmented Generation (RAG)
 
 ---
 
