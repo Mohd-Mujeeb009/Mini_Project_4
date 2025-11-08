@@ -59,7 +59,7 @@ This file serves as the knowledge base for the retrieval system.
 
 | Component | Tool / Library |
 |------------|----------------|
-| Programming Language | Python 🐍 |
+| Programming Language | Python  |
 | Framework | LangChain |
 | LLM | OpenAI / HuggingFace Transformers |
 | Vector DB | FAISS / Chroma |
